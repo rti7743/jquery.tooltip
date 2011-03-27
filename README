@@ -1,0 +1,9 @@
+jquery.ui.tooltip が行けていなかったのでリライトしてみた。
+結構色々行けるよ!
+
+
+with jquery ui として実装方
+jquery.ui.tooltip2.js
+
+without jquery ui で、jqueryさえあれば動作する方
+jquery.tooltip2.js
