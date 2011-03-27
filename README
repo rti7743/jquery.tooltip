@@ -2,8 +2,12 @@ jquery.ui.tooltip が行けていなかったのでリライトしてみた。
 結構色々行けるよ!
 
 
-with jquery ui として実装方
+jquery ui として実装方
 jquery.ui.tooltip2.js
+DEMO http://rtilabs.net/files/2011_03_25/tooltip/
 
-without jquery ui で、jqueryさえあれば動作する方
+without jquery ui ということでjquery uiから分離して、
+jqueryさえあれば動作する方
+
 jquery.tooltip2.js
+DEMO http://rtilabs.net/files/2011_03_25/tooltip/index2.html
