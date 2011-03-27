@@ -1,9 +1,9 @@
-jquery.ui.tooltip ‚ªs‚¯‚Ä‚¢‚È‚©‚Á‚½‚Ì‚ÅƒŠƒ‰ƒCƒg‚µ‚Ä‚Ý‚½B
-Œ‹\FXs‚¯‚é‚æ!
+jquery.ui.tooltip ãŒè¡Œã‘ã¦ã„ãªã‹ã£ãŸã®ã§ãƒªãƒ©ã‚¤ãƒˆã—ã¦ã¿ãŸã€‚
+çµæ§‹è‰²ã€…è¡Œã‘ã‚‹ã‚ˆ!
 
 
-with jquery ui ‚Æ‚µ‚ÄŽÀ‘••û
+with jquery ui ã¨ã—ã¦å®Ÿè£…æ–¹
 jquery.ui.tooltip2.js
 
-without jquery ui ‚ÅAjquery‚³‚¦‚ ‚ê‚Î“®ì‚·‚é•û
+without jquery ui ã§ã€jqueryã•ãˆã‚ã‚Œã°å‹•ä½œã™ã‚‹æ–¹
 jquery.tooltip2.js
